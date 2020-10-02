@@ -1,2 +1,2 @@
-# website
+# Website
 - An Amazing Project
